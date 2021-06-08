@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046324482263",
+    "project_id": "garbage-classification-315812",
+    "storage_bucket": "garbage-classification-315812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046324482263:android:1a5b77154d5cc81876e092",
+        "android_client_info": {
+          "package_name": "com.pab.garbage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046324482263-a21ejrdho79t0m038ebp5b0svgeagdsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NieRJFWFIWGz57GO3LusgcCBXujPNBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046324482263-a21ejrdho79t0m038ebp5b0svgeagdsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
