@@ -1,1 +1,2 @@
-# Garbage_Classification
+# Garbage
+Bangkit Capstone Project
